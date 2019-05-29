@@ -1,0 +1,43 @@
+.remove{
+	color: blue;
+	padding-left: 2%;
+	margin-left:70%;
+}
+.remove:hover {
+	color: red;
+	cursor: pointer;
+	padding-left: 2%;
+	margin-left:70%;
+}
+a.f4{
+	border-radius: 2rem;
+}
+.input-reset{
+	margin-left: 5%;
+	margin-right: 5%;
+	border-color: gold;
+}
+li:nth-child(n){
+	list-style-type:none;
+	margin-left: 30%;
+	font-size: 1.25rem;
+	border: 2px solid red;
+	margin-right: 30%;
+    border-radius: 0.85rem;
+    padding: 0.75rem;
+    margin-top: 0.55rem
+}
+li:hover{
+	list-style-type:none;
+	margin-left: 30%;
+	font-size: 1.25rem;
+	border: 2px solid blue;
+	margin-right: 30%;
+    border-radius: 0.85rem;
+    padding: 0.75rem;
+    margin-top: 0.55rem;
+    cursor: pointer;
+}
+ul{
+	padding: 0.15rem;
+}
